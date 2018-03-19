@@ -1,0 +1,8 @@
+# Ignore everything
+*
+
+# Except relevant configuration files
+!init.el
+!elisp
+!elisp/*
+!.gitignore
